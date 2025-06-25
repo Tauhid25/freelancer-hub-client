@@ -4,6 +4,10 @@
 
 Freelancer Hub is a dynamic web platform where freelancers can find suitable jobs, and employers can easily post and manage tasks. Built using modern React and Vite technologies, this application connects skilled individuals with businesses in need of services.
 
+
+<!-- Project Photo -->
+<img src="https://i.ibb.co/pvmQT5g9/freelancer-hub.png" alt="Cover" width="100%" />
+
 ---
 
 ## 🚀 Features
@@ -35,11 +39,20 @@ Freelancer Hub is a dynamic web platform where freelancers can find suitable job
 
 ---
 
-## 📦 Installation
 
-### Prerequisites:
-- Node.js & npm
-- MongoDB (local or Atlas)
+##### 📦 Installation & Setup
+
+ **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/better-work.git
+   ```
+ **Run the Command:**
+
+   ```bash
+   npm install
+
+   ```
 
 
 
