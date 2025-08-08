@@ -6,7 +6,8 @@ Freelancer Hub is a dynamic web platform where freelancers can find suitable job
 
 
 <!-- Project Photo -->
-<img src="https://i.ibb.co/pvmQT5g9/freelancer-hub.png" alt="Cover" width="100%" />
+![Cover](https://i.ibb.co/pvmQT5g9/freelancer-hub.png)
+
 
 ---
 
@@ -40,12 +41,12 @@ Freelancer Hub is a dynamic web platform where freelancers can find suitable job
 ---
 
 
-##### 📦 Installation & Setup
+### 📦 **Installation & Setup**
 
  **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/better-work.git
+   git clone https://github.com/Tauhid25/freelancer-hub-client.git
    ```
  **Run the Command:**
 
